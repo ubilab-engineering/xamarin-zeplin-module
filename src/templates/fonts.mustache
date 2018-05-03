@@ -1,0 +1,7 @@
+public class UIFontStyle
+{
+    {{#textStyles}}
+     public static UIFont {{key}} => UIFont.FromName("{{fontFamily}}-{{fontWeight}}", {{fontSize}}); 
+ 
+    {{/textStyles}}
+}
