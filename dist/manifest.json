@@ -10,6 +10,6 @@
       "default": "com.namespace"
     }
   ],
-  "moduleURL": "https://raw.githubusercontent.com/ubilab-engineering/xamarin-zeplin-module/master/dist/main.9bfcf14e.js",
-  "readmeURL": "https://raw.githubusercontent.com/ubilab-engineering/xamarin-zeplin-module/master/dist/README.md"
+  "moduleURL": "https://raw.githubusercontent.com/ubilab-engineering/zeplin-extension-xamarin-ios/master/dist/main.9bfcf14e.js",
+  "readmeURL": "https://raw.githubusercontent.com/ubilab-engineering/zeplin-extension-xamarin-ios/master/dist/README.md"
 }
