@@ -1,0 +1,15 @@
+{
+  "name": "Xamarin iOS",
+  "description": "Sample extension description.",
+  "version": "0.1.0",
+  "options": [
+    {
+      "name": "Name of namespace",
+      "type": "text",
+      "id": "namescpaceName",
+      "default": "com.namespace"
+    }
+  ],
+  "moduleURL": "./main.9bfcf14e.js",
+  "readmeURL": "./README.md"
+}
